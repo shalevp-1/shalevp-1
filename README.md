@@ -35,10 +35,10 @@ E-commerce web application built with React, Node.js and MySQL.
 - [Backend Repository](https://github.com/shalevp-1)
 
 
-## 🌐 Portfolio
+## Portfolio
 
 [Visit My Portfolio](https://shalevpeck.netlify.app/)
 
-## 📫 Contact
+## Contact
 
 - Email: shalevpecksp@hotmail.com
