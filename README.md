@@ -31,8 +31,8 @@ Full-stack fitness tracking application built with Angular, Node.js, Express and
 E-commerce web application built with React, Node.js and MySQL.
 
 - [Live Website](https://dountstime.netlify.app/)
-- [Frontend Repository](https://github.com/shalevp-1)
-- [Backend Repository](https://github.com/shalevp-1)
+- [Frontend Repository](https://github.com/shalevp-1/Donuts_front)
+- [Backend Repository](https://github.com/shalevp-1/Donuts_Backend)
 
 
 ## Portfolio
